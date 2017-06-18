@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">news-reading app</string>
+    <string name="refresh_msg">Refresh</string>
+</resources>
